@@ -1,6 +1,6 @@
 package com.unokim.android.bignerdranch.criminalintent;
 
-public class Constant {
+public final class Constant {
 
     public static final String TAG = "CriminalIntent";
 
